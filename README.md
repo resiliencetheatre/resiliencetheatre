@@ -1,3 +1,5 @@
+Code blocks for resilience and simplicity. 
+
 - 📫 XMPP: re_theatre@5222.de
 
 
