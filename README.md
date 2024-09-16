@@ -9,7 +9,7 @@ This is my Github for non profit open source work. You can find Edgemap and othe
 ## Contact 
 
   * [Wiki](https://resilience-theatre.com/wiki)
-  * [Mastodon](https://infosec.exchange/@retheat|Mastodon)
+  * [Mastodon](https://infosec.exchange/@retheat)
   * Discord: 0x3132
   * Email: info @ resilience-theatre.com
   * Reticulum via lxmf: ''3fc66fa17c3a3670dab1fcb1fb71cdb9''
