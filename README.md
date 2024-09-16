@@ -5,6 +5,7 @@ This is my Github for non profit open source work. You can find Edgemap and othe
 ## Projects
 
 * [Edgemap on Raspberry Pi4](https://github.com/resiliencetheatre/rpi4edgemapdisplay)
+* [Edgemap for RPi Zero 2W ](https://github.com/resiliencetheatre/rpi2wedgemap)
 
 ## Contact 
 
