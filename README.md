@@ -11,6 +11,7 @@ This is my Github for non profit open source work. You can find Edgemap and othe
 
   * [My wiki](https://resilience-theatre.com/wiki)
   * [Mastodon](https://infosec.exchange/@retheat)
+  * [https://www.youtube.com/@resiliencetheatre](Youtube)
   * Discord: 0x3132
   * Email: info @ resilience-theatre.com
   * Reticulum via lxmf: ''3fc66fa17c3a3670dab1fcb1fb71cdb9''
