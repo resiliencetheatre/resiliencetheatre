@@ -10,6 +10,7 @@ This is my Github for non profit open source work. You can find Edgemap and othe
 ## Contact 
 
   * [My wiki](https://resilience-theatre.com/wiki)
+  * [LinkedIn](https://www.linkedin.com/company/resilience-theatre/)
   * [Mastodon](https://infosec.exchange/@retheat)
   * [Youtube](https://www.youtube.com/@resiliencetheatre)
   * Discord: 0x3132
