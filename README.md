@@ -2,9 +2,11 @@
 
 This is my Github for non profit open source work. You can find Edgemap and other small projects here. 
 
+**NOTE:** I've changed my main Edgemap repository name to 'rpi4edgemap' at Oct 23, 2024. Use link bellow.
+
 ## Projects
 
-* [Edgemap on Raspberry Pi4](https://github.com/resiliencetheatre/rpi4edgemapdisplay)
+* [Edgemap on Raspberry Pi4](https://github.com/resiliencetheatre/rpi4edgemap)
 * [Edgemap for RPi Zero 2W ](https://github.com/resiliencetheatre/rpi2wedgemap)
 
 ## Contact 
