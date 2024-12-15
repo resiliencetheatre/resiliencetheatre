@@ -2,7 +2,7 @@
 
 This is my Github for non profit open source work. You can find Edgemap and other small projects here. 
 
-:star: See you all at **38th Chaos Communication Congress** (27-30.December,CCH Hamburg) :star:
+:star: See you all at **38th Chaos Communication Congress** (27-30.December, Hamburg) My DECT number: 8388 :star:
 
 :exclamation: I've changed my main Edgemap repository name to 'rpi4edgemap' at Oct 23, 2024. Use link bellow.
 
