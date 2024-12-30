@@ -19,7 +19,7 @@ This is my Github for non profit open source work. You can find Edgemap and othe
   * [Youtube](https://www.youtube.com/@resiliencetheatre)
   * Discord: 0x3132
   * Email: info @ resilience-theatre.com
-  * Reticulum via lxmf: ''3fc66fa17c3a3670dab1fcb1fb71cdb9'' (OFFLINE CURRENTLY)
+  * Reticulum via lxmf: ''34e047e0d06a0d6794e2068fc5ba9edb'' (laptop)
 
 <!---
 resiliencetheatre/resiliencetheatre is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
