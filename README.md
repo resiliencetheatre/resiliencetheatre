@@ -1,6 +1,6 @@
 # Welcome
 
-This is my Github for non profit open source work. You can find Edgemap and other small projects here. My most up-to-date work is on my [Codeberg repository](https://codeberg.org/resiliencetheatre). This GitHub account is updated only occasionally.
+This is my Github for non profit open source work. You can find Edgemap and other small projects here. My most up-to-date work is on my [Codeberg repository](https://codeberg.org/resiliencetheatre). This GitHub account is updated only occasionally. You can reach me via `irc.resilience-theatre.com/6667` by joining channel `#edgemap` - Note that server does not use SSL for security reasons.
 
 ## Projects
 
@@ -11,6 +11,7 @@ This is my Github for non profit open source work. You can find Edgemap and othe
 ## Contact 
 
   * Email: info @ resilience-theatre.com
+  * IRC: irc.resilience-theatre.com/6667, channel #edgemap
 
 <!---
 resiliencetheatre/resiliencetheatre is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
