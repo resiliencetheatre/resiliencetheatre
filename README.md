@@ -8,15 +8,17 @@ You can also use **xmpp** and message me at `info@xmpp.resilience-theatre.com`
 
 ## Projects
 
-* [Edgemap on Raspberry Pi4](https://github.com/resiliencetheatre/rpi4edgemap)
-* [Edgemap for RPi Zero 2W ](https://github.com/resiliencetheatre/rpi2wedgemap)
-* [Codeberg repository](https://codeberg.org/resiliencetheatre)
+* [Buildroot external tree](https://github.com/resiliencetheatre/rpi-extree)
+* [Situation Map (Edgemap 'Lite')](https://github.com/resiliencetheatre/map)
+* [UDP Push-To-Talk](https://github.com/resiliencetheatre/udpptt)
+* [Edgemap on Raspberry Pi4 (retired)](https://github.com/resiliencetheatre/rpi4edgemap)
 
 ## Contact 
 
   * Email: `info @ resilience-theatre.com`
   * IRC: `irc.resilience-theatre.com/6667`, channel `#edgemap`
   * XMPP: `info@xmpp.resilience-theatre.com`
+  * LXMF: `845e1452fb2a4a9a103590c83ae1e272`
 
 <!---
 resiliencetheatre/resiliencetheatre is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
