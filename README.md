@@ -19,6 +19,7 @@ This is my Github for non profit open source work. You can find Edgemap and othe
   * IRC: `irc.resilience-theatre.com/6667`, channel `#edgemap` or [browser client](http://irc.resilience-theatre.com:9000/)
   * XMPP: `info @ xmpp.resilience-theatre.com`
   * LXMF: `845e1452fb2a4a9a103590c83ae1e272`
+  * Mastodon: https://infosec.exchange/@resiliencetheatre
 
 ## Wiki
 
