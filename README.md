@@ -4,6 +4,9 @@ This is my Github for non profit open source work. You can find Edgemap and othe
 
 <img src="https://resilience-theatre.com/wiki/lib/exe/fetch.php?cache=&media=mindfullness.png" alt="World is broken" width="400">
 
+* https://resilience-theatre.com/permission/
+* https://resilience-theatre.com/authority/
+* https://resilience-theatre.com/trust-boundary/
 
 
 ## Projects
