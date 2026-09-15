@@ -7,7 +7,7 @@ This is my Github for non profit open source work. You can find Edgemap and othe
 * https://resilience-theatre.com/permission/
 * https://resilience-theatre.com/authority/
 * https://resilience-theatre.com/trust-boundary/
-
+* https://resilience-theatre.com/skillset/
 
 ## Projects
 
